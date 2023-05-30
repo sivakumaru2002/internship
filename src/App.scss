@@ -1,0 +1,97 @@
+@import '~antd/dist/antd.css';
+
+.fullPage {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    height: 100vh;
+    color: #5f0a87;
+    background-color: #0CBABA;
+    background-image: linear-gradient(315deg,
+            #0CBABA 0%, #ec9f05 74%);
+}
+
+#fullpa {
+    height: 100vh;
+    color: #ff4e00;
+    background-color: #a4508b;
+    background-image: url('https://i.ytimg.com/vi/Y3NIa0RJyww/maxresdefault.jpg')
+}
+
+#pagei {
+    outline: 50px solid white;
+    outline-offset: 0px;
+    background-color: white;
+}
+
+#lo {
+    color: #ff4e00;
+}
+
+#im {
+    float: right;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    content: up;
+}
+
+.heads {
+    color: white;
+}
+.bg{
+    background-color:white;
+}
+.centerContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seat {
+    width: 40px;
+    height: 40px;
+}
+
+.seat_hover {
+    &:hover {
+        background-color: #a4508b;
+    }
+}
+
+.seat_selected {
+    background-color: cyan;
+}
+
+.total_price {
+
+    font-size: 2rem;
+
+}
+
+.fullP {
+    font-size: larger;
+    color: white;
+
+}
+
+.sidebar_items {
+    color: whitesmoke;
+    padding: 5px;
+
+    span {
+        font-size: 1.1rem;
+        margin-right: 10px;
+    }
+
+    &:hover {
+        background-color: #5cb1ff;
+    }
+}
+
+.sidebar_active_items {
+    background-color: #1890ff;
+
+    &:hover {
+        background-color: #1890ff !important;
+    }
+}

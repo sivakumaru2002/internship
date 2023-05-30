@@ -1,0 +1,26 @@
+SSSR Bookings
+
+Stack:
+Frontend: ReactJs, HTML, CSS
+
+
+Pages: 
+
+1. Sign In Screen
+2. Signup Screen
+3. Landing Page
+4. Booking Page
+5. Payment Page
+6. Booking confimation Page
+7. Reports Page
+
+
+Packages: 
+
+1.react-router-dom:    To manage routing
+
+
+
+Flexbox:
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    https://flexboxfroggy.com/
